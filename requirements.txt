@@ -1,0 +1,9 @@
+ucimlrepo 
+pandas 
+seaborn 
+matplotlib.pyplot 
+sklearn.metrics 
+sklearn.neighbors 
+sklearn.preprocessing 
+statsmodels.formula.api 
+numpy 
